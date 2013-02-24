@@ -373,7 +373,7 @@
 
   <!-- PAC -->
   <project path="android" name="PACinBlack/android" />
-  <project path="frameworks/base" name="PAC-man/android_frameworks_base" />
+  <project path="frameworks/base" name="PACinBlack/android_frameworks_base" />
   <project path="packages/apps/Contacts" name="PACinBlack/android_packages_apps_Contacts" />
   <project path="packages/apps/Phone" name="PACinBlack/android_packages_apps_Phone" />
   <project path="packages/apps/ROMControl" name="PAC-man/packages_apps_ROMControl" />
