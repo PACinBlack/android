@@ -387,7 +387,7 @@
   <project path="vendor/pac" name="PACinBlack/android_vendor_pac" />
 
   <project path="pac" name="PACinBlack/pac" >
-    <copyfile dest="build-pac.sh" src="build.sh"/>
+    <copyfile dest="build-pib.sh" src="build.sh"/>
   </project>
 
 </manifest>
