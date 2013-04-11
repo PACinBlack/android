@@ -16,12 +16,3 @@ Then to build:
 
     ./build-pib.sh <device_name>
     example: ./build-pib.sh urushi
-
-You need help while compiling for your Device?
-You get them in our official IRC Channel:
-
-[IRC Channel: #pac-rom](http://webchat.freenode.net/?channels=pac-rom)
-
-or visit us in our official Forum:
-
-[Forum] (http://pac-man-rom.de/forum/)
